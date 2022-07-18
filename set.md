@@ -15,7 +15,7 @@ When you **add** something to a set, you will (if there are no conflicts):
 
 [!["JOKER"](joker.png)](https://www.youtube.com/watch?v=YKdW0XQRxIU)
 
-Here, I have the the string "JOKER", which I want to be add to my set.
+Here, I have the string "JOKER", which I want to be add to my set.
 
 [!["JOKER" hash](joker_hash.png)](https://www.youtube.com/watch?v=YKdW0XQRxIU)
 
