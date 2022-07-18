@@ -93,14 +93,14 @@ tree.insert(3)
 tree_dict = {1:"A", 2:"B", 3:"C"}
 ```
 
-### Not using the forward and backward methods correctly
+### Not using the `forward` and `backward` methods correctly
 
 You may find that trying to traverse a [BinarySearchTree](BinarySearchTree.py) does not work as you might expect when you do something like this:
 ```
 # print the contents of my_bst in ascending order
 print(my_bst.forward())
 ```
-It is good to know that the forward and backward methods give values to a `for` loop. For example:
+It is good to know that the `forward` and `backward` methods give values to a `for` loop. For example:
 ```
 # print the contents of my_bst in ascending order
 for i in my_bst.forward():
