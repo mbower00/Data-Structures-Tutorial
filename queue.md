@@ -1,6 +1,6 @@
 Back to [Welcome](welcome.md)
 
-#
+---
 
 # The Queue
 
@@ -227,6 +227,6 @@ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
 When you are ready, view my [solution](queue_solution.py)
 
-#
+---
 
 Back to [Welcome](welcome.md)
