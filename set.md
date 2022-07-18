@@ -140,7 +140,7 @@ gate_log = ["Maxine", "Jim", "Billy", "Billy", "Maxine", "Joyce", "Mike", "Nancy
 How might a **set** be used so that Billy and Maxine do **not** get charged two times for one day?
 
 ### Solution
-Lets add the 
+Let's add the info from `gate_log` to `gate_set` and loop through `gate_set`, displaying that each person has been charged.
 ```
 # store the gate log in a list
 gate_log = ["Maxine", "Jim", "Billy", "Billy", "Maxine", "Joyce", "Mike", "Nancy", "El", "Jonathan", "Dustin"]
