@@ -1,6 +1,8 @@
-# The Set
-
 Back to [Welcome](welcome.md)
+
+#
+
+# The Set
 
 ## Introduction
 
@@ -209,3 +211,7 @@ Maxine     Charged $2
 ### Solution
 
 When you are ready, view my [solution](set_solution.py)
+
+#
+
+Back to [Welcome](welcome.md)

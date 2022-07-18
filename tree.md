@@ -1,6 +1,8 @@
-# The Binary Search Tree
-
 Back to [Welcome](welcome.md)
+
+#
+
+# The Binary Search Tree
 
 ## Introduction
 
@@ -169,3 +171,7 @@ $<salary> payed to <name>
 ### Solution
 
 When you are ready, view my [solution](tree_solution.py) with the output in a comment at the top.
+
+#
+
+Back to [Welcome](welcome.md)

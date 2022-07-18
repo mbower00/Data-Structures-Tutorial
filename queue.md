@@ -1,6 +1,8 @@
-# The Queue
-
 Back to [Welcome](welcome.md)
+
+#
+
+# The Queue
 
 ## Introduction
 The queue is a simple data structure that follows a First In First Out (FIFO) setup. Queues are useful when you want to *keep* and *use* items in the order in which they were added.
@@ -224,3 +226,7 @@ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 ### Solution
 
 When you are ready, view my [solution](queue_solution.py)
+
+#
+
+Back to [Welcome](welcome.md)
