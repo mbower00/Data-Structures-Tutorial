@@ -41,7 +41,7 @@ Some of the operations of a BST can be of performance: O(log n). However if that
 * 9
 * 10
 
-This would lead to the the BST looking like a diagonal line of cards connected together. If a computer wanted to find the **10** in this setup, it would have to go through **all** the other cards to find it (not very efficient). With the above setup, however, it would have to go through the **6**, then the **8**, and then the **9**. After those, it would reach the **10**.
+This would lead to the BST looking like a diagonal line of cards connected together. If a computer wanted to find the **10** in this setup, it would have to go through **all** the other cards to find it (not very efficient). With the above setup, however, it would have to go through the **6**, then the **8**, and then the **9**. After those, it would reach the **10**.
 
 ## Methods and Performance
 
